@@ -99,7 +99,7 @@ a | b // 65 : Nat8 == binary 1000001
 // Binary XOR "^"
 let a = 64 : Nat8; // binary 1000000
 let b = 65 : Nat8; // binary 1000001
-a ^ b // 1 : Nat8  == binary 1000001
+a ^ b // 1 : Nat8  == binary 0000001
 ```
 
 ```motoko
